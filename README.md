@@ -1,5 +1,7 @@
 # Hand Engineering 959 Mini
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 The Hand Engineering 959 Mini is an open-source keyboard designed to capture the brilliant industrial aesthetic of the Porsche 959 while staying true to the iconic simplicity of keyboard designers before us. This 60% keyboard features an innovative mounting system and is compatible with QMK and VIA for ultimate customization.
 
 ![Hand Engineering 959 Mini Keyboard](959-mini.jpg)
@@ -38,16 +40,10 @@ We welcome contributions to the Hand Engineering 959 Mini project! If you have s
 
 ## License
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Acknowledgments
 
@@ -60,3 +56,8 @@ Founded in 2019, Hand Engineering is a product design studio based in Ramsgate, 
 ---
 
 README last updated: [27/09/24]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
